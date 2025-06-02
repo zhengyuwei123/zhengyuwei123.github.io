@@ -93,4 +93,9 @@ I am always open to discussions and potential collaborations. If you're interest
 - *2025.07 - now*, Suzhou Institute for Advanced Research at the University of Science and Technology of China, Suzhou, China.
 - *2021.07 - 2022.06*, China United Network Communications Co., Ltd., Shenzhen Branch, Shenzhen, China.
 
-# 💻 Homie
+# 👫 Homie
+<a href="https://zhaowumian7.github.io/" target="_blank" rel="noopener noreferrer">
+  <img src="https://zhaowumian7.github.io//logo.png" alt="Example Site Logo" width="150" />
+</a>
+
+
