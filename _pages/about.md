@@ -27,7 +27,7 @@ Before joining ShanghaiTech University, I conducted research on third-generation
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — jiang_yunhui99[at]163.com
 
-## Research Interests
+# 🧐 Research Interests
 
 - **Low-cost photoacoustic–ultrasound dual-modality imaging systems**  
 - **Flexible photoacoustic patch imaging**  
