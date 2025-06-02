@@ -15,20 +15,20 @@ main:
   - title: "Projects"
     url: "/#-projects"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Honors &amp Awards"
+    url: "/#-honors-&amp-awards"
 
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Teaching"
-    url: "/#-teaching"
+  - title: "Teaching Assistant Work"
+    url: "/#-teaching-assistant-work"
 
  # - title: "Invited Talks"
  #  url: "/#-invited-talks"
 
-  - title: "Internships and Work"
-    url: "/#-internships-and-work"
+  - title: "Internships &amp Work"
+    url: "/#-internships-&amp-work"
 
   - title: "Homie"
     url: "/#-homie"
