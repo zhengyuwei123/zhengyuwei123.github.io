@@ -44,7 +44,7 @@ I am always open to discussions and potential collaborations. If you're interest
   <div class='paper-box-image'>
     <div>
       <div class="badge">OL 2025</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/OAW_OL565354.jpg' alt="sym" width="70%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
