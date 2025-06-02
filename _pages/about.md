@@ -61,7 +61,7 @@ I am always open to discussions and potential collaborations. If you're interest
     </div>
   </div>
 
-  <div class='paper-box-text' markdown="1" style="overflow: hidden;">
+  <div class='paper-box-text' markdown="1">
     This work presents a plug-and-play photoacoustic–ultrasound dual-modal imaging system (PnP-PAUS) with a disposable opto-acoustic window (OAW), enabling simultaneous PA and US imaging using a single laser pulse and demonstrating high resolution, stability, and signal consistency through phantom and in vivo experiments.
   </div>
 </div>
