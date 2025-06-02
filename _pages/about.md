@@ -60,13 +60,14 @@ I am always open to discussions and potential collaborations. If you're interest
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2022.09 - 2025.07*, Electronic Science and Technology, School of Information Science and Technology, ShanghaiTech University, Shanghai, China.
+- *2022.09 - 2025.07(now)*, Electronic Science and Technology, School of Information Science and Technology, ShanghaiTech University, Shanghai, China.
 - *2017.09 - 2021.06*, Optoelectronic Information Science and Engineering, the School of Electronic Engineering, Xi’an University of Posts & Telecommunications, Xi’an, China. 
 
-# 💬 Invited Talks
+<!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+-->
 
-# 💻 Internships
+# 💻 Internships & Work
 - *2025.07 - now*, Suzhou Institute for Advanced Research at the University of Science and Technology of China, Suzhou, China.
 - *2021.07 - 2022.06*, China United Network Communications Co., Ltd., Shenzhen Branch, Shenzhen, China.
