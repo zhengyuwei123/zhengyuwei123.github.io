@@ -34,11 +34,6 @@ I am always open to discussions and potential collaborations. If you're interest
   
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).这里可以加谷歌引用数量 -->
 
-
-# 🔥 News
-- *2025.05.09*: &nbsp;🎉🎉 Successfully completed my master's thesis defense.
-- *2023.08.09*: &nbsp;🎉🎉 Join HISLab at ShanghaiTech University. 
-
 # 📝 Publications
 <div class='paper-box'>
   <div class='paper-box-image' >
