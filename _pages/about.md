@@ -39,7 +39,8 @@ I am always open to discussions and potential collaborations. If you're interest
 - *2025.05.09*: &nbsp;🎉🎉 Successfully completed my master's thesis defense.
 - *2023.08.09*: &nbsp;🎉🎉 Join HISLab at ShanghaiTech University. 
 
-# 📝 Publications 
+# 📝 Publications
+<!--
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -48,9 +49,24 @@ I am always open to discussions and potential collaborations. If you're interest
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  **Title:** Disposable Opto-Acoustic Window Enabled Plug-and-Play Photoacoustic-Ultrasound Dual-modal Imaging
-  **Authors:** **Yunhui Jiang**, Fan Zhang, Yuwei Zheng, Ruixi Sun, Xiran Cai, Fei Gao
-  **Summary:** This work presents a plug-and-play photoacoustic–ultrasound dual-modal imaging system (PnP-PAUS) with a disposable opto-acoustic window (OAW), enabling simultaneous PA and US imaging using a single laser pulse and demonstrating high resolution, stability, and signal consistency through phantom and in vivo experiments.
+  - **Title:** Disposable Opto-Acoustic Window Enabled Plug-and-Play Photoacoustic-Ultrasound Dual-modal Imaging
+  - **Authors:** **Yunhui Jiang**, Fan Zhang, Yuwei Zheng, Ruixi Sun, Xiran Cai, Fei Gao
+  - **Summary:** This work presents a plug-and-play photoacoustic–ultrasound dual-modal imaging system (PnP-PAUS) with a disposable opto-acoustic window (OAW), enabling simultaneous PA and US imaging using a single laser pulse and demonstrating high resolution, stability, and signal consistency through phantom and in vivo experiments.
+-->
+<div class='paper-box'>
+  <div class='paper-box-image' style="width: 60%; float: left; margin-right: 20px;">
+    <div>
+      <div class="badge">OL 2025</div>
+      <img src='images/500x300.png' alt="sym" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1" style="overflow: hidden;">
+    This work presents a plug-and-play photoacoustic–ultrasound dual-modal imaging system (PnP-PAUS) with a disposable opto-acoustic window (OAW), enabling simultaneous PA and US imaging using a single laser pulse and demonstrating high resolution, stability, and signal consistency through phantom and in vivo experiments.
+  </div>
+</div>
+
+
     
 [PDF](https://your-github-link-to-cv-or-paper.pdf) | [Code](https://github.com/your-repo-name)
   </div>
