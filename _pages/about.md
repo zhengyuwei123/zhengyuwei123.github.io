@@ -19,7 +19,7 @@ redirect_from:
 
 Hey, here is Yunhui Jiang (蒋云辉).
 
-I am a graduate student in the Hybrid Imaging System Laboratory at ShanghaiTech University, supervised by Prof. Fei Gao. In November 2024, our laboratory was relocated to the Suzhou Institute for Advanced Research at the University of Science and Technology of China.
+I am a graduate student in the [**Hybrid Imaging System Laboratory**](http://www.hislab.cn/main) at ShanghaiTech University, supervised by Prof. Fei Gao. In November 2024, our laboratory was relocated to the Suzhou Institute for Advanced Research at the University of Science and Technology of China.
 
 My graduate studies are supported by the ShanghaiTech University Scholarship and the China Graduate Scholarship. In addition to my primary research, I also had the opportunity to collaborate on a research project with Professor Xiran Cai at the Intelligent Ultrasound Imaging and Therapy Laboratory.
 
@@ -27,13 +27,6 @@ Before joining ShanghaiTech University, I conducted research on third-generation
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — jiang_yunhui99[at]163.com
 
-Research Interests
-
-Low-cost photoacoustic–ultrasound dual-modality imaging systems
-
-Flexible photoacoustic patch imaging
-
-Biomedical applications, including structural imaging, functional evaluation, and neuromodulation
 ## Research Interests
 
 - **Low-cost photoacoustic–ultrasound dual-modality imaging systems**  
