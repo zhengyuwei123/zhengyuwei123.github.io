@@ -72,7 +72,7 @@ I am always open to discussions and potential collaborations. If you're interest
 - *2021.10* Lorem ipsum dolor sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet. 
 
-# 🎖 Honors &amp Awards
+# 🎖 Honors &amp; Awards
 - *2021.10* Lorem ipsum dolor sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet. 
 
@@ -89,7 +89,7 @@ I am always open to discussions and potential collaborations. If you're interest
 - *2021.10* Lorem ipsum dolor sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet. 
 
-# 💻 Internships &amp Work
+# 💻 Internships &amp; Work
 - *2025.07 - now*, Suzhou Institute for Advanced Research at the University of Science and Technology of China, Suzhou, China.
 - *2021.07 - 2022.06*, China United Network Communications Co., Ltd., Shenzhen Branch, Shenzhen, China.
 
