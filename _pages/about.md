@@ -19,11 +19,11 @@ redirect_from:
 
 Hey, here is Yunhui Jiang (蒋云辉).
 
-I am a graduate student in the [**Hybrid Imaging System Laboratory**](http://www.hislab.cn/main) at ShanghaiTech University, supervised by Prof. Fei Gao. In November 2024, our laboratory was relocated to the Suzhou Institute for Advanced Research at the University of Science and Technology of China.
+I am a graduate student in the [**Hybrid Imaging System Laboratory**](http://www.hislab.cn/main) at ShanghaiTech University, supervised by [**Prof. Fei Gao**](https://scholar.google.com/citations?user=aDTizY8AAAAJ&hl=zh-CN). In November 2024, our laboratory was relocated to the [**Suzhou Institute for Advanced Research at the University of Science and Technology of China**](https://sz.ustc.edu.cn/rcdw_show/277.html).
 
-My graduate studies are supported by the ShanghaiTech University Scholarship and the China Graduate Scholarship. In addition to my primary research, I also had the opportunity to collaborate on a research project with Professor Xiran Cai at the Intelligent Ultrasound Imaging and Therapy Laboratory.
+My graduate studies are supported by the ShanghaiTech University Scholarship and the China Graduate Scholarship. In addition to my primary research, I also had the opportunity to collaborate on a research project with [**Prof. Xiran Cai**](https://scholar.google.com/citations?user=O5fKAhoAAAAJ&hl=zh-CN) at the [**Intelligent Ultrasound Imaging and Therapy Laboratory**](https://suitlaboratory.github.io/).
 
-Before joining ShanghaiTech University, I conducted research on third-generation semiconductor materials and power semiconductor devices at Xi’an University of Posts & Telecommunications, under the guidance of Professor Shuyuan Lyu and Dr. Shaoqing Wang.
+Before joining ShanghaiTech University, I conducted research on third-generation semiconductor materials and power semiconductor devices at [**the School of Electronic Engineering, Xi’an University of Posts & Telecommunications**](https://dianxin.xupt.edu.cn/), under the guidance of [**Prof. Shuyuan Lyu**](https://gr.xupt.edu.cn/info/1212/6732.htm), [**Prof. Kaili Ren**](https://gr.xupt.edu.cn/info/1209/6737.htm) and [**Dr. Shaoqing Wang**](https://gr.xupt.edu.cn/info/1211/6704.htm). 
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — jiang_yunhui99[at]163.com
 
