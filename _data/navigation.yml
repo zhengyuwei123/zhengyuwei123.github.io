@@ -15,8 +15,8 @@ main:
   - title: "Projects"
     url: "/#-projects"
 
-  - title: "Honors &amp Awards"
-    url: "/#-honors-&amp-awards"
+  - title: "Honors &amp; Awards"
+    url: "/#-honors-&amp;-awards"
 
   - title: "Educations"
     url: "/#-educations"
@@ -27,8 +27,8 @@ main:
  # - title: "Invited Talks"
  #  url: "/#-invited-talks"
 
-  - title: "Internships &amp Work"
-    url: "/#-internships-&amp-work"
+  - title: "Internships &amp; Work"
+    url: "/#-internships-&amp;-work"
 
   - title: "Homie"
     url: "/#-homie"
