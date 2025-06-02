@@ -41,10 +41,10 @@ I am always open to discussions and potential collaborations. If you're interest
 
 # 📝 Publications
 <div class='paper-box'>
-  <div class='paper-box-image' style="width: 60%; float: left; margin-right: 20px;">
+  <div class='paper-box-image' >
     <div>
       <div class="badge">OL 2025</div>
-      <img src='images/OAW_OL565354.jpg' alt="sym" width="100%">
+      <img src='images/OAW_OL565354.jpg' alt="sym" width="70%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
