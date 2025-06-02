@@ -17,8 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hey, here is Yunhui Jiang (蒋云辉).
 
+I am a graduate student in the Hybrid Imaging System Laboratory at ShanghaiTech University, supervised by Prof. Fei Gao. In November 2024, our laboratory was relocated to the Suzhou Institute for Advanced Research at the University of Science and Technology of China.
+
+My graduate studies are supported by the ShanghaiTech University Scholarship and the China Graduate Scholarship. In addition to my primary research, I also had the opportunity to collaborate on a research project with Professor Xiran Cai at the Intelligent Ultrasound Imaging and Therapy Laboratory.
+
+Before joining ShanghaiTech University, I conducted research on third-generation semiconductor materials and power semiconductor devices at Xi’an University of Posts & Telecommunications, under the guidance of Professor Shuyuan Lyu and Dr. Shaoqing Wang.
+
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — jiang_yunhui99[at]163.com
+
+Research Interests
+
+Low-cost photoacoustic–ultrasound dual-modality imaging systems
+
+Flexible photoacoustic patch imaging
+
+Biomedical applications, including structural imaging, functional evaluation, and neuromodulation
+## Research Interests
+
+- **Low-cost photoacoustic–ultrasound dual-modality imaging systems**  
+- **Flexible photoacoustic patch imaging**  
+- **Biomedical applications**, including structural imaging, functional evaluation, and neuromodulation
+  
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
