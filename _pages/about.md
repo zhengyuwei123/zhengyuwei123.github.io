@@ -25,7 +25,7 @@ My graduate studies are supported by the ShanghaiTech University Scholarship and
 
 Before joining ShanghaiTech University, I conducted research on third-generation semiconductor materials and power semiconductor devices at [**the School of Electronic Engineering, Xi’an University of Posts & Telecommunications**](https://dianxin.xupt.edu.cn/), under the guidance of [**Prof. Shuyuan Lyu**](https://gr.xupt.edu.cn/info/1212/6732.htm), [**Prof. Kaili Ren**](https://gr.xupt.edu.cn/info/1209/6737.htm) and [**Dr. Shaoqing Wang**](https://gr.xupt.edu.cn/info/1211/6704.htm). 
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — jiang_yunhui99[at]163.com
+I am always open to discussions and potential collaborations. If you're interested in any aspect of my work, feel free to contact me at jiang_yunhui99[at]163.com. <!--For more details, please refer to my [CV](https://github.com/your-username/your-repo/raw/main/CV.pdf).-->
 
 # 🧐 Research Interests
 - **Low-cost photoacoustic–ultrasound dual-modality imaging systems**  
@@ -41,7 +41,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OL 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -60,12 +60,13 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2025.07*, Electronic Science and Technology, School of Information Science and Technology, ShanghaiTech University, Shanghai, China.
+- *2017.09 - 2021.06*, Optoelectronic Information Science and Engineering, the School of Electronic Engineering, Xi’an University of Posts & Telecommunications, Xi’an, China. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.07 - now*, Suzhou Institute for Advanced Research at the University of Science and Technology of China, Suzhou, China.
+- *2021.07 - 2022.06*, China United Network Communications Co., Ltd., Shenzhen Branch, Shenzhen, China.
