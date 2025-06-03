@@ -38,7 +38,7 @@ I am always open to discussions and potential collaborations. If you're interest
 <div class='paper-box'>
   <div class='paper-box-image' >
     <div>
-      <div class="badge" style="font-size: 1.2em;">OL 2025</div>
+      <div class="badge" style="font-size: 1.2em;">XXX 2025</div>
       <img src='images/OAW_OL565354.jpg' alt="sym" width="95%">
     </div>
   </div>
