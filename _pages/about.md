@@ -19,7 +19,9 @@ redirect_from:
 
 Hey, here is Yunhui Jiang (蒋云辉).
 
-I am a graduate student in the [**Hybrid Imaging System Laboratory(HISLab)**](http://www.hislab.cn/main) at ShanghaiTech University, supervised by [**Prof. Fei Gao**](https://scholar.google.com/citations?user=aDTizY8AAAAJ&hl=zh-CN). In November 2024, our laboratory was relocated to the [**Suzhou Institute for Advanced Research at the University of Science and Technology of China**](https://sz.ustc.edu.cn/rcdw_show/277.html).
+
+<!-- [**Hybrid Imaging System Laboratory(HISLab)**](http://www.hislab.cn/main) -->
+I am a graduate student in the <a href="[http://www.hlab.cn](http://www.hislab.cn/main)" style="color: black;"><strong>Hybrid Imaging System Laboratory(HISLab)</strong></a> at the School of Information Science and Technology, ShanghaiTech University(SIST, ShanghaiTech), supervised by [**Prof. Fei Gao**](https://scholar.google.com/citations?user=aDTizY8AAAAJ&hl=zh-CN). In November 2024, our laboratory was relocated to the [**Suzhou Institute for Advanced Research at the University of Science and Technology of China**](https://sz.ustc.edu.cn/rcdw_show/277.html).
 
 My graduate studies are supported by the ShanghaiTech University Scholarship and the China Graduate Scholarship. In addition to my primary research, I also had the opportunity to collaborate on a research project with [**Prof. Xiran Cai**](https://scholar.google.com/citations?user=O5fKAhoAAAAJ&hl=zh-CN) at the [**Intelligent Ultrasound Imaging and Therapy Laboratory**](https://suitlaboratory.github.io/).
 
