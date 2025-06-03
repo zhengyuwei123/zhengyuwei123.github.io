@@ -19,13 +19,11 @@ redirect_from:
 
 Hey, here is Yunhui Jiang (蒋云辉).
 
+I am a graduate student in the <a href="http://www.hislab.cn/main" style="color: inherit;"><strong>Hybrid Imaging System Laboratory(HISLab)</strong></a> at the School of Information Science and Technology, ShanghaiTech University(SIST, ShanghaiTech), supervised by <a href="https://scholar.google.com/citations?user=aDTizY8AAAAJ&hl=zh-CN" style="color: inherit;"><strong>Prof. Fei Gao</strong></a>. In November 2024, our laboratory was relocated to the <a href="https://sz.ustc.edu.cn/rcdw_show/277.html" style="color: inherit;"><strong>Suzhou Institute for Advanced Research at the University of Science and Technology of China(USTC)</strong></a>.
 
-<!-- [**Hybrid Imaging System Laboratory(HISLab)**](http://www.hislab.cn/main) -->
-I am a graduate student in the <a href="[http://www.hlab.cn](http://www.hislab.cn/main)" style="color: inherit;"><strong>Hybrid Imaging System Laboratory(HISLab)</strong></a> at the School of Information Science and Technology, ShanghaiTech University(SIST, ShanghaiTech), supervised by [**Prof. Fei Gao**](https://scholar.google.com/citations?user=aDTizY8AAAAJ&hl=zh-CN). In November 2024, our laboratory was relocated to the [**Suzhou Institute for Advanced Research at the University of Science and Technology of China**](https://sz.ustc.edu.cn/rcdw_show/277.html).
+My graduate studies are supported by the ShanghaiTech University Scholarship and the China Graduate Scholarship. In addition to my primary research, I also had the opportunity to collaborate on a research project with <a href="https://scholar.google.com/citations?user=O5fKAhoAAAAJ&hl=zh-CN" style="color: inherit;"><strong>Prof. Xiran Cai</strong></a> at the <a href="https://suitlaboratory.github.io/" style="color: inherit;"><strong>Intelligent Ultrasound Imaging and Therapy Laboratory</strong></a>.
 
-My graduate studies are supported by the ShanghaiTech University Scholarship and the China Graduate Scholarship. In addition to my primary research, I also had the opportunity to collaborate on a research project with [**Prof. Xiran Cai**](https://scholar.google.com/citations?user=O5fKAhoAAAAJ&hl=zh-CN) at the [**Intelligent Ultrasound Imaging and Therapy Laboratory**](https://suitlaboratory.github.io/).
-
-Before joining ShanghaiTech University, I conducted research on third-generation semiconductor materials and power semiconductor devices at [**the School of Electronic Engineering, Xi’an University of Posts & Telecommunications**](https://dianxin.xupt.edu.cn/), under the guidance of [**Prof. Shuyuan Lyu**](https://gr.xupt.edu.cn/info/1212/6732.htm), [**Prof. Kaili Ren**](https://gr.xupt.edu.cn/info/1209/6737.htm) and [**Dr. Shaoqing Wang**](https://gr.xupt.edu.cn/info/1211/6704.htm). 
+Before joining ShanghaiTech University, I conducted research on third-generation semiconductor materials and power semiconductor devices at <a href="https://dianxin.xupt.edu.cn/" style="color: inherit;"><strong>the School of Electronic Engineering, Xi’an University of Posts & Telecommunications(XUPT)</strong></a>, under the guidance of <a href="https://gr.xupt.edu.cn/info/1212/6732.htm" style="color: inherit;"><strong>Prof. Shuyuan Lyu</strong></a>, <a href="https://gr.xupt.edu.cn/info/1209/6737.htm" style="color: inherit;"><strong>Prof. Kaili Ren</strong></a> and <a href="https://gr.xupt.edu.cn/info/1211/6704.htm" style="color: inherit;"><strong>Dr. Shaoqing Wang</strong></a>. 
 
 I am always open to discussions and potential collaborations. If you're interested in any aspect of my work, feel free to contact me at jiang_yunhui99[at]163.com. <!--For more details, please refer to my [CV](https://github.com/your-username/your-repo/raw/main/CV.pdf).-->
 
@@ -64,8 +62,6 @@ I am always open to discussions and potential collaborations. If you're interest
 
 - [Lorem ipsum dolor sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
-
-
 
 
 
