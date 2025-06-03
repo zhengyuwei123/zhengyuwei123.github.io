@@ -5,6 +5,6 @@ permalink: /honors-and-awards/
 ---
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet. 
+- *2018.10* XXXXXX. 
+- *2018.09* XXXXXX. 
 
