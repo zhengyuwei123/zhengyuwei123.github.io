@@ -1,10 +1,11 @@
 ---
 layout: page
-title: news
-permalink: /news/
+title: Homie
+permalink: /homie/
 ---
 
-# 🔥 News
-- *2025.05.09*: &nbsp;🎉🎉 Successfully completed my master's thesis defense.
-- *2023.08.09*: &nbsp;🎉🎉 Join HISLab at ShanghaiTech University. 
+# 👫 Homie
+<a href="https://zhaowumian7.github.io/" target="_blank" rel="noopener noreferrer">
+  <img src="https://zhaowumian7.github.io//logo.png" alt="Example Site Logo" width="150" />
+</a>
 
