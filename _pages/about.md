@@ -38,16 +38,18 @@ I am always open to discussions and potential collaborations. If you're interest
 <div class='paper-box'>
   <div class='paper-box-image' >
     <div>
-      <div class="badge">OL 2025</div>
+      <div class="badge" style="font-size: 1.2em;">OL 2025</div>
       <img src='images/OAW_OL565354.jpg' alt="sym" width="95%">
     </div>
   </div>
+  
   <div class='paper-box-text' markdown="1">
   - **Title:** Disposable Opto-Acoustic Window Enabled Plug-and-Play Photoacoustic-Ultrasound Dual-modal Imaging
   - **Authors:** <strong><u>Yunhui Jiang</u></strong>, Fan Zhang, Yuwei Zheng, Ruixi Sun, Xiran Cai, Fei Gao
   - **Summary:** This work presents a plug-and-play photoacoustic–ultrasound dual-modal imaging system (PnP-PAUS) with a disposable opto-acoustic window (OAW), enabling simultaneous PA and US imaging using a single laser pulse and demonstrating high resolution, stability, and signal consistency through phantom and in vivo experiments.
 [PDF](https://your-github-link-to-cv-or-paper.pdf) <!--| [Code](https://github.com/your-repo-name)-->
   </div>
+  
 </div>
 
 <!--
