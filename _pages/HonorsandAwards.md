@@ -37,7 +37,7 @@ permalink: /honors-and-awards/
 
 # 🦸‍♂️ Volunteer
 - *Mar. 2025* Shanghai Huangpu Half Marathon Volunteer.
-- *Nov. 2024* China International Import Expo Outstanding Volunteer.
+- *Nov. 2024* China International Import Expo Outstanding Volunteer<a href="https://mp.weixin.qq.com/s/5ruP4OfqzpBiamf2sTP2Hg" target="_blank" rel="noopener noreferrer" style="color: inherit;">[HTML]</a>.
 - *Aug. 2024* Volunteer for Science Popularization at Shanghai Zhangjiang Science Hall.
 - *June 2024* ShanghaiTech University Commencement Ceremony Volunteer.
 - *June 2024* 2024 Summer Camp for Recommended Graduate Admission at ShanghaiTech University Volunteer.
