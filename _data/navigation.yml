@@ -13,22 +13,22 @@ main:
     url: "/publications/"
 
   - title: "Projects"
-    url: "/#-projects"
+    url: "/projects/"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/honors-and-awards/"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/educations/"
 
   - title: "TA Work"
-    url: "/#-ta-work"
+    url: "/ta-work/"
 
  # - title: "Invited Talks"
  #  url: "/#-invited-talks"
 
   - title: "Internships and Work"
-    url: "/#-internships-and-work"
+    url: "/internships-and-work/"
 
   - title: "Homie"
-    url: "/#-homie"
+    url: "/homie/"
