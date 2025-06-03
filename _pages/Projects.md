@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 ---
 
-# 🛠 Research Projects
+# 🔬 Research Projects
 - *2021.10* XXXXXXXXX.
 - *2021.09* XXXXXXXXX.
 
