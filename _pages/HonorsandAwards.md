@@ -1,10 +1,10 @@
 ---
 layout: page
-title: news
-permalink: /news/
+title: Honors and Awards
+permalink: /honors-and-awards/
 ---
 
-# 🔥 News
-- *2025.05.09*: &nbsp;🎉🎉 Successfully completed my master's thesis defense.
-- *2023.08.09*: &nbsp;🎉🎉 Join HISLab at ShanghaiTech University. 
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet. 
 
