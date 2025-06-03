@@ -57,17 +57,18 @@ permalink: /homie/
     <img src="/images/friends/YoushenXiao.png" alt="Youshen Xiao">
     <div class="friend-info">
       <h4>Youshen Xiao</h4>
-      <p>AI Researcher, SJTU</p>
+      <p>MS@ShanghaiTech</p>
     </div>
   </a>
 
+<!--
   <a href="https://somefriend.github.io/" target="_blank" class="friend-card">
     <img src="/images/friends/friend2.png" alt="Another Friend">
     <div class="friend-info">
       <h4>Another Friend</h4>
       <p>PhD, MIT</p>
     </div>
-  </a>
+  </a>  -->
 </div>
 
 
