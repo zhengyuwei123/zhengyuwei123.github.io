@@ -25,6 +25,7 @@ permalink: /honors-and-awards/
 
 # 🏆 Honors
 - *June 2025* Outstanding Graduate, ShanghaiTech University.
+- *Apr. 2025* Outstanding Teaching Assistant, ShanghaiTech University.
 - *Jan. 2025* Completed the 100 km MacLehose Trail in Hong Kong.
 - *Dec. 2024* Outstanding Student, ShanghaiTech University.
 - *June 2021* Outstanding Graduate of Shaanxi Province.
@@ -33,7 +34,15 @@ permalink: /honors-and-awards/
 - *Dec. 2019* Outstanding Student Leader, Xi’an University of Posts and Telecommunications.
 - *Apr. 2019* Outstanding Communist Youth League Officer, Xi’an University of Posts and Telecommunications.
 
+
 # 🦸‍♂️ Volunteer
+
+
+
+
+
+
+
 
 
 
