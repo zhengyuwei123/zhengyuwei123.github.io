@@ -18,9 +18,9 @@ permalink: /honors-and-awards/
 
 # 🥇 Competitions
 - *June 2023* Second Prize in the Laboratory Safety Knowledge Competition, ShanghaiTech University.
-- *Sept. 2019* Third Prize in the 5th “Internet+” National College Student Innovation and Entrepreneurship Competition.
-- *July 2019* Second Prize in the Northwest Division of the National College Student Optoelectronic Design Competition.
-- *Mar. 2019* Third Prize in the Shaanxi Province Division (University Group) of the Lanqiao Cup Competition in Microcontroller Design and Development.
+- *Sept. 2019* Third Prize in the 5th “Internet+” National College Student Innovation and Entrepreneurship Competition, Xi’an University of Posts and Telecommunications.
+- *July 2019* Second Prize in the Northwest Division of the National College Student Optoelectronic Design Competition, Xi’an University of Posts and Telecommunications.
+- *Mar. 2019* Third Prize in the Shaanxi Province Division (University Group) of the Lanqiao Cup Competition in Microcontroller Design and Development, Xi’an University of Posts and Telecommunications.
 
 
 # 🏆 Honors
@@ -36,7 +36,21 @@ permalink: /honors-and-awards/
 
 
 # 🦸‍♂️ Volunteer
-
+- *Mar. 2025* Shanghai Huangpu Half Marathon Volunteer.
+- *Nov. 2024* China International Import Expo Outstanding Volunteer.
+- *Aug. 2024* Volunteer for Science Popularization at Shanghai Zhangjiang Science Hall.
+- *June 2024* ShanghaiTech University Commencement Ceremony Volunteer.
+- *June 2024* 2024 Summer Camp for Recommended Graduate Admission at ShanghaiTech University Volunteer.
+- *Mar. 2024* 2024 ShanghaiTech University Campus Open Day Volunteer.
+- *Jan. 2024* Chinese Calligraphy Volunteer for Spring Festival Celebration Volunteer.
+- *Nov. 2023* 2023 Shanghai Marathon Volunteer.
+- *Oct. 2023* 3rd ShanghaiTech University Annual Sports Meeting Volunteer.
+- *Oct. 2023* ShanghaiTech University 10th Anniversary Volunteer.
+- *June 2023* 2023 ShanghaiTech University SIST Undergraduate Admission Promotion Volunteer.
+- *June 2023* 2023 ShanghaiTech University IH Undergraduate Admission Promotion Volunteer.
+- *June 2023* Shanghai-Hong Kong-Macau Youth Exchange Program Volunteer.
+- *May 2023* Shanghai Spartan Race Volunteer.
+- *Apr. 2023* Shanghai Library Volunteer.
 
 
 
