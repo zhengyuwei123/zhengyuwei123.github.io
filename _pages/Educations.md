@@ -1,10 +1,10 @@
 ---
 layout: page
-title: news
-permalink: /news/
+title: Educations
+permalink: /educations/
 ---
 
-# 🔥 News
-- *2025.05.09*: &nbsp;🎉🎉 Successfully completed my master's thesis defense.
-- *2023.08.09*: &nbsp;🎉🎉 Join HISLab at ShanghaiTech University. 
+# 📖 Educations
+- *2022.09 - 2025.07(now)*, Electronic Science and Technology, School of Information Science and Technology, ShanghaiTech University, Shanghai, China.
+- *2017.09 - 2021.06*, Optoelectronic Information Science and Engineering, the School of Electronic Engineering, Xi’an University of Posts & Telecommunications, Xi’an, China. 
 
