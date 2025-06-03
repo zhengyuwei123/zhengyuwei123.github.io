@@ -27,7 +27,10 @@ permalink: /honors-and-awards/
 - *June 2025* Outstanding Graduate, ShanghaiTech University.
 - *Apr. 2025* Outstanding Teaching Assistant, ShanghaiTech University.
 - *Jan. 2025* Completed the 100 km MacLehose Trail in Hong Kong.
+- *Dec. 2024* Completed the Deqing Mount Mogan Bamboo Sea Half Marathon.
 - *Dec. 2024* Outstanding Student, ShanghaiTech University.
+- *Apr. 2024* Completed the Shanghai Spartan Race (10 kilometers and 25 obstacles).
+- *Apr. 2023* Completed the Shanghai Suzhou Creek Half Marathon.
 - *June 2021* Outstanding Graduate of Shaanxi Province.
 - *Nov. 2020* Outstanding Individual in Summer Social Practice, Xi’an University of Posts and Telecommunications.
 - *June 2020* Outstanding Communist Youth League Officer, Xi’an University of Posts and Telecommunications.
