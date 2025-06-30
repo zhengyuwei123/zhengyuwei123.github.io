@@ -47,7 +47,7 @@ I am always open to discussions and potential collaborations. If you're interest
   - **Title:** Disposable Opto-Acoustic Window Enabled Plug-and-Play Photoacoustic-Ultrasound Dual-modal Imaging
   - **Authors:** <strong><u>Yunhui Jiang</u></strong>, Fan Zhang, Yuwei Zheng, Ruixi Sun, Xiran Cai, Fei Gao
   - **Summary:** This work presents a plug-and-play photoacoustic–ultrasound dual-modal imaging system (PnP-PAUS) with a disposable opto-acoustic window (OAW), enabling simultaneous PA and US imaging using a single laser pulse and demonstrating high resolution, stability, and signal consistency through phantom and in vivo experiments.
-[[PDF](/_pages/articles/测试pdf.pdf)] <!--| [Code](https://github.com/your-repo-name)-->
+[[PDF](/_pages/articles/OL565354.pdf)] <!--| [Code](https://github.com/your-repo-name)-->
   </div>
   
 </div>
