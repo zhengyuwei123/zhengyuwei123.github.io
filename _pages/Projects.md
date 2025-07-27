@@ -6,53 +6,26 @@ permalink: /projects/
 
 # 🔬 Research Projects  #
 
-- 1. Programmable Laser-Induced Ultrasound Design and Simulation via k-Wave
+1. Programmable Laser-Induced Ultrasound Design and Simulation via k-Wave
      <div style="display: flex; justify-content: space-between;">
-        <div>Course-based Research Project under Prof. Cheng Wang, Optical Computing and Optical Neural Networks</div>
-        <div>Sept. 2024 – Mar. 2025</div>
+        <div>Principal Investigator, Ongoing</div>
+        <div>July 2025 – Present</div>
      </div>
       - Designed spatially patterned optical absorbers capable of generating laser-induced ultrasound fields with tunable directionality and amplitude under pulsed laser excitation
       - Applied phased-array principles by encoding spatial phase delays through absorber geometry, enabling programmable beam steering and dynamic acoustic focusing
-    <li>Built a k-Wave simulation framework to model ultrasound propagation and evaluate focusing performance in water and heterogeneous tissue-mimicking media</li>
-    <li>Analyzing resolution and energy distribution across different pattern configurations to inform the practical design of flexible acoustic focusing patches</li>
+      - Built a k-Wave simulation framework to model ultrasound propagation and evaluate focusing performance in water and heterogeneous tissue-mimicking media
+      - Analyzing resolution and energy distribution across different pattern configurations to inform the practical design of flexible acoustic focusing patches
 
+2. Dual-modality Photoacoustic-Ultrasound Imaging Using Laser-Induced Ultrasound from Black Tape
+     <div style="display: flex; justify-content: space-between;">
+        <div>Principal Investigator, Published in <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-50-14-4582" target="_blank" rel="noopener noreferrer" style="color: inherit;">Optics Letters</a></div>
+        <div>July 2024 – June 2025</div>
+     </div>
+      - Designed a plug-and-play opto-acoustic window enabling coaxial photoacoustic and ultrasound imaging triggered by a single laser pulse
+      - Streamlined fabrication process using black PVC tape for high reproducibility and low cost
+      - Validated signal stability and dual-modality imaging performance through extensive phantom experiments and in vivo finger imaging studies
 
-<div class="project-entry">
-  <div class="entry-header">
-    <div class="entry-number">1.</div>
-    <div class="entry-title">
-      Programmable Laser-Induced Ultrasound Design and Simulation via k-Wave
-    </div>
-  </div>
-  <div class="entry-meta">
-    <div>Principal Investigator, Ongoing</div>
-    <div>July 2025 – Present</div>
-  </div>
-  <ul class="entry-details">
-    <li>Designed spatially patterned optical absorbers capable of generating laser-induced ultrasound fields with tunable directionality and amplitude under pulsed laser excitation</li>
-    <li>Applied phased-array principles by encoding spatial phase delays through absorber geometry, enabling programmable beam steering and dynamic acoustic focusing</li>
-    <li>Built a k-Wave simulation framework to model ultrasound propagation and evaluate focusing performance in water and heterogeneous tissue-mimicking media</li>
-    <li>Analyzing resolution and energy distribution across different pattern configurations to inform the practical design of flexible acoustic focusing patches</li>
-  </ul>
-</div>
-
-<div class="project-entry">
-  <div class="entry-header">
-    <div class="entry-number">2.</div>
-    <div class="entry-title">
-      Dual-modality Photoacoustic-Ultrasound Imaging Using Laser-Induced Ultrasound from Black Tape
-    </div>
-  </div>
-  <div class="entry-meta">
-    <div>Principal Investigator, Published in <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-50-14-4582" target="_blank" rel="noopener noreferrer" style="color: inherit;">Optics Letters</a>}</div>
-    <div>July 2024 – June 2025</div>
-  </div>
-  <ul class="entry-details">
-    <li>Designed a plug-and-play opto-acoustic window enabling coaxial photoacoustic and ultrasound imaging triggered by a single laser pulse</li>
-    <li>Streamlined fabrication process using black PVC tape for high reproducibility and low cost</li>
-    <li>Validated signal stability and dual-modality imaging performance through extensive phantom experiments and in vivo finger imaging studies</li>
-  </ul>
-</div>
+      
 
 <div class="project-entry">
   <div class="entry-header">
@@ -118,72 +91,6 @@ permalink: /projects/
 
 <h1> 📃 Course Projects  </h1>
 
-
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>CV Entry</title>
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script id="MathJax-script" async
-    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-  </script>
-  <style>
-    body {
-      font-family: 'Georgia', serif;
-      margin: 40px;
-      max-width: 800px;
-    }
-
-    .project-entry {
-      margin-bottom: 24px;
-    }
-
-    .entry-header {
-      display: flex;
-      align-items: baseline;
-    }
-
-    .entry-number {
-      font-weight: bold;
-      margin-right: 8px;
-      min-width: 20px;
-    }
-
-    .entry-title {
-      font-weight: bold;
-      white-space: nowrap; /* Prevents awkward word break */
-      flex: 1;
-    }
-
-    .entry-meta {
-      display: flex;
-      justify-content: space-between;
-      font-style: italic;
-      font-size: 0.95em;
-      color: #444;
-      margin-left: 28px;
-      margin-top: 2px;
-    }
-
-    .entry-details {
-      margin-left: 28px;
-      margin-top: 6px;
-    }
-
-    .entry-details li {
-      margin-bottom: 4px;
-      white-space: nowrap;
-    }
-
-    /* Optional: let title shrink on small screens */
-    @media (max-width: 700px) {
-      .entry-title {
-        white-space: normal;
-      }
-    }
-  </style>
-</head>
-<body>
 
 <div class="project-entry">
   <div class="entry-header">
