@@ -17,7 +17,7 @@ permalink: /projects/
       - Analyzing resolution and energy distribution across different pattern configurations to inform the practical design of flexible acoustic focusing patches
 
 2. Dual-modality Photoacoustic-Ultrasound Imaging Using Laser-Induced Ultrasound from Black Tape
-     <div style="display: flex; justify-content: space-between;">
+     <div style="display: flex; justify-content: space-between; font-style: italic;">
         <div>Principal Investigator, Published in <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-50-14-4582" target="_blank" rel="noopener noreferrer" style="color: inherit;">Optics Letters</a></div>
         <div>July 2024 – June 2025</div>
      </div>
@@ -70,7 +70,7 @@ permalink: /projects/
       - Evaluated the feasibility and limitations of existing optical SNN algorithms in all-optical computing contexts and suggested improvements for spike-based supervised learning
 
 2. Speckle Imaging through Scattering Layers
-     <div style="display: flex; justify-content: space-between;">
+     <div style="display: flex; justify-content: space-between; font-style: italic;">
         <div>Primary contributor, Course: Biomedical Photonics and Imaging</div>
         <div>Sept. 2024 – Mar. 2025</div>
      </div>
