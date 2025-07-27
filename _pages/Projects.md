@@ -75,15 +75,18 @@ permalink: /projects/
   <div class="entry-header">
     <div class="entry-number">1.</div>
     <div class="entry-title">
-      3D Digital Eye Phantom for Functional Photoacoustic Imaging and \( \mathrm{sO}_2 \) Quantification
+      Programmable Laser-Induced Ultrasound Design and Simulation via k-Wave
     </div>
   </div>
   <div class="entry-meta">
-    <div>Sept. 2024 – Mar. 2025</div>
-    <div>Co-author, Under Review</div>
+    <div>July 2025 – Present</div>
+    <div>Principal Investigator, Ongoing</div>
   </div>
   <ul class="entry-details">
-    <li>Performed pixel-wise quantification of retinal \( \mathrm{sO}_2 \) using linear spectral unmixing</li>
+    <li>Designed spatially patterned optical absorbers capable of generating laser-induced ultrasound fields with tunable directionality and amplitude under pulsed laser excitation</li>
+    <li>Applied phased-array principles by encoding spatial phase delays through absorber geometry, enabling programmable beam steering and dynamic acoustic focusing</li>
+    <li>Built a k-Wave simulation framework to model ultrasound propagation and evaluate focusing performance in water and heterogeneous tissue-mimicking media</li>
+    <li>Analyzing resolution and energy distribution across different pattern configurations to inform the practical design of flexible acoustic focusing patches</li>
   </ul>
 </div>
 
@@ -91,7 +94,44 @@ permalink: /projects/
   <div class="entry-header">
     <div class="entry-number">2.</div>
     <div class="entry-title">
-      3D Digital Eye Phantom for Functional Photoacoustic Imaging and \( \mathrm{sO}_2 \) Quantification
+      Dual-modality Photoacoustic-Ultrasound Imaging Using Laser-Induced Ultrasound from Black Tape
+    </div>
+  </div>
+  <div class="entry-meta">
+    <div>July 2024 – June 2025</div>
+    <div>Principal Investigator, Published in \href{https://doi.org/10.1364/OL.565354}{\textbf{Optics Letters}}</div>
+  </div>
+  <ul class="entry-details">
+    <li>Designed a plug-and-play opto-acoustic window enabling coaxial photoacoustic and ultrasound imaging triggered by a single laser pulse</li>
+    <li>Streamlined fabrication process using black PVC tape for high reproducibility and low cost</li>
+    <li>Validated signal stability and dual-modality imaging performance through extensive phantom experiments and in vivo finger imaging studies</li>
+  </ul>
+</div>
+
+<div class="project-entry">
+  <div class="entry-header">
+    <div class="entry-number">3.</div>
+    <div class="entry-title">
+      Noninvasive Intracranial Pressure Monitoring via Transcranial Photoacoustic Imaging
+    </div>
+  </div>
+  <div class="entry-meta">
+    <div>Sept. 2024 – Dec. 2024</div>
+    <div>Co-Investigator, Completed Project</div>
+  </div>
+  <ul class="entry-details">
+    <li>Developed a photoacoustic imaging platform integrating a tunable NIR laser, linear-array ultrasound probe, high-speed DAQ, and a stabilized transcranial probe mount</li>
+    <li>Conducted in vivo transcranial photoacoustic imaging experiments on human volunteers, synchronized with invasive ICP monitoring for ground-truth validation</li>
+    <li>Reconstructed vascular structures using delay-and-sum beamforming and geometric correction; implemented multi-wavelength spectral unmixing for quantitative $\mathrm{HbO}_2$/HbR mapping</li>
+    <li>Developed a linear regression model correlating photoacoustic-derived $\mathrm{sO}_2$ with measured ICP, demonstrating a strong inverse relationship</li>
+  </ul>
+</div>
+
+<div class="project-entry">
+  <div class="entry-header">
+    <div class="entry-number">4.</div>
+    <div class="entry-title">
+      3D Digital Eye Phantom for Functional Photoacoustic Imaging and $\mathrm{sO}_2$ Quantification
     </div>
   </div>
   <div class="entry-meta">
@@ -99,9 +139,29 @@ permalink: /projects/
     <div>Co-author, Under Review</div>
   </div>
   <ul class="entry-details">
-    <li>Performed pixel-wise quantification of retinal \( \mathrm{sO}_2 \) using linear spectral unmixing</li>
+    <li>Performed pixel-wise quantification of retinal $\mathrm{sO}_2$ using linear spectral unmixing</li>
   </ul>
 </div>
+
+<div class="project-entry">
+  <div class="entry-header">
+    <div class="entry-number">5.</div>
+    <div class="entry-title">
+      Self-developed DAQ Debugging and Photoacoustic Data Acquisition
+    </div>
+  </div>
+  <div class="entry-meta">
+    <div>Sept. 2023 – June 2024</div>
+    <div>Principal Investigator, Completed and in active use</div>
+  </div>
+  <ul class="entry-details">
+    <li>Debugged hardware and software of a self-developed DAQ card to resolve signal acquisition issues</li>
+    <li>Integrated the DAQ card into the imaging system and conducted phantom and in vivo experiments</li>
+    <li>Verified signal stability and imaging quality for real-time photoacoustic acquisition</li>
+  </ul>
+</div>
+
+
 
 
 
