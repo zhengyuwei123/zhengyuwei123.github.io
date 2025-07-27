@@ -18,7 +18,7 @@ permalink: /projects/
     body {
       font-family: 'Georgia', serif;
       margin: 40px;
-      max-width: 800px;
+      max-width: 1000px;
     }
 
     .project-entry {
