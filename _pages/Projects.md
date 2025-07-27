@@ -70,7 +70,7 @@ window.MathJax = {
 
 <h1> 📃 Course Projects  </h1>
 
-1. Mini Review: Algorithms for Photonic Spiking Neural Networks
+1. Mini Review: Algorithms for Photonic Spiking Neural Networks [<a href="_pages/CVandCourseProjects/A_review_on_photonic_spiking_neural_network_algorithms.pdf " target="_blank">PDF</a>]
      <div style="display: flex; justify-content: space-between; font-style: italic;">
         <div>Course-based Research Project under Prof. Cheng Wang, Course: Optical Computing and Optical Neural Networks</div>
         <div>Sept. 2024 – Mar. 2025</div>
@@ -79,7 +79,7 @@ window.MathJax = {
       - Investigated encoding strategies (frequency/time coding) and photonic learning rules, particularly optical implementations of STDP using SOA and EAM
       - Evaluated the feasibility and limitations of existing optical SNN algorithms in all-optical computing contexts and suggested improvements for spike-based supervised learning
 
-2. Speckle Imaging through Scattering Layers
+2. Speckle Imaging through Scattering Layers [<a href="_pages/CVandCourseProjects/Biomedical_Photonics_and_Imaging_Project.pdf " target="_blank">PDF</a>]
      <div style="display: flex; justify-content: space-between; font-style: italic;">
         <div>Primary contributor, Course: Biomedical Photonics and Imaging</div>
         <div>Sept. 2024 – Mar. 2025</div>
