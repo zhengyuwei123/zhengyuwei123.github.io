@@ -4,19 +4,7 @@ title: projects
 permalink: /projects/
 ---
 
-h2 {
-  font-family: 'Georgia', serif;
-  font-size: 1.4em;
-  font-weight: bold;
-  margin-top: 40px;
-  margin-bottom: 20px;
-  color: black;
-  border-bottom: 1px solid #ccc;  /* 浅灰色横线 */
-  padding-bottom: 4px;             /* 增加一点下边距让线更自然 */
-}
-
-
-<h2> 🔬 Research Projects  </h2>
+<h1> 🔬 Research Projects  </h1>
 
 <html lang="en">
 <head>
@@ -102,7 +90,7 @@ h2 {
 
 
 
-<h2> 📃 Course Projects  </h2>
+<h1> 📃 Course Projects  </h1>
 
 
 <html lang="en">
