@@ -59,6 +59,7 @@ permalink: /projects/
 
     .entry-details li {
       margin-bottom: 4px;
+      white-space: nowrap;
     }
 
     /* Optional: let title shrink on small screens */
@@ -98,7 +99,7 @@ permalink: /projects/
     </div>
   </div>
   <div class="entry-meta">
-    <div>Principal Investigator, Published in Optics Letters}</div>
+    <div>Principal Investigator, Published in <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-50-14-4582" target="_blank" rel="noopener noreferrer" style="color: inherit;">Optics Letters</a>}</div>
     <div>July 2024 – June 2025</div>
   </div>
   <ul class="entry-details">
