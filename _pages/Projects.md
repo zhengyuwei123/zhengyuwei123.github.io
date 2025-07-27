@@ -7,7 +7,7 @@ permalink: /projects/
 # 🔬 Research Projects  #
 
 1. Programmable Laser-Induced Ultrasound Design and Simulation via k-Wave
-     <div style="display: flex; justify-content: space-between;">
+     <div style="display: flex; justify-content: space-between; font-style: italic;">
         <div>Principal Investigator, Ongoing</div>
         <div>July 2025 – Present</div>
      </div>
@@ -18,7 +18,7 @@ permalink: /projects/
 
 2. Dual-modality Photoacoustic-Ultrasound Imaging Using Laser-Induced Ultrasound from Black Tape
      <div style="display: flex; justify-content: space-between;">
-        <div>Principal Investigator, Published in <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-50-14-4582" target="_blank" rel="noopener noreferrer" style="color: inherit;">Optics Letters</a></div>
+        <div>Principal Investigator, Published in <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-50-14-4582" target="_blank" rel="noopener noreferrer" style="color: inherit;text-decoration: none;">Optics Letters</a></div>
         <div>July 2024 – June 2025</div>
      </div>
       - Designed a plug-and-play opto-acoustic window enabling coaxial photoacoustic and ultrasound imaging triggered by a single laser pulse
