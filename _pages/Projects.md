@@ -4,6 +4,16 @@ title: projects
 permalink: /projects/
 ---
 
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  }
+};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+
+
 # 🔬 Research Projects  #
 
 1. Programmable Laser-Induced Ultrasound Design and Simulation via k-Wave
