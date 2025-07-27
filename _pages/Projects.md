@@ -79,8 +79,8 @@ permalink: /projects/
     </div>
   </div>
   <div class="entry-meta">
-    <div>July 2025 – Present</div>
     <div>Principal Investigator, Ongoing</div>
+    <div>July 2025 – Present</div>
   </div>
   <ul class="entry-details">
     <li>Designed spatially patterned optical absorbers capable of generating laser-induced ultrasound fields with tunable directionality and amplitude under pulsed laser excitation</li>
@@ -98,8 +98,8 @@ permalink: /projects/
     </div>
   </div>
   <div class="entry-meta">
+    <div>Principal Investigator, Published in Optics Letters}</div>
     <div>July 2024 – June 2025</div>
-    <div>Principal Investigator, Published in \href{https://doi.org/10.1364/OL.565354}{\textbf{Optics Letters}}</div>
   </div>
   <ul class="entry-details">
     <li>Designed a plug-and-play opto-acoustic window enabling coaxial photoacoustic and ultrasound imaging triggered by a single laser pulse</li>
@@ -116,8 +116,8 @@ permalink: /projects/
     </div>
   </div>
   <div class="entry-meta">
-    <div>Sept. 2024 – Dec. 2024</div>
     <div>Co-Investigator, Completed Project</div>
+    <div>Sept. 2024 – Dec. 2024</div>
   </div>
   <ul class="entry-details">
     <li>Developed a photoacoustic imaging platform integrating a tunable NIR laser, linear-array ultrasound probe, high-speed DAQ, and a stabilized transcranial probe mount</li>
@@ -135,8 +135,8 @@ permalink: /projects/
     </div>
   </div>
   <div class="entry-meta">
-    <div>Sept. 2024 – Mar. 2025</div>
     <div>Co-author, Under Review</div>
+    <div>Sept. 2024 – Mar. 2025</div>
   </div>
   <ul class="entry-details">
     <li>Performed pixel-wise quantification of retinal $\mathrm{sO}_2$ using linear spectral unmixing</li>
@@ -151,8 +151,8 @@ permalink: /projects/
     </div>
   </div>
   <div class="entry-meta">
-    <div>Sept. 2023 – June 2024</div>
     <div>Principal Investigator, Completed and in active use</div>
+    <div>Sept. 2023 – June 2024</div>
   </div>
   <ul class="entry-details">
     <li>Debugged hardware and software of a self-developed DAQ card to resolve signal acquisition issues</li>
@@ -226,6 +226,7 @@ permalink: /projects/
 
     .entry-details li {
       margin-bottom: 4px;
+      white-space: nowrap;
     }
 
     /* Optional: let title shrink on small screens */
