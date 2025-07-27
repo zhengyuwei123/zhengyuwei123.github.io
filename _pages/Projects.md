@@ -90,7 +90,7 @@ permalink: /projects/
 
 
 
-# 📃 Course Projects
+<h2> 📃 Course Projects  </h2>
 
 
 <html lang="en">
