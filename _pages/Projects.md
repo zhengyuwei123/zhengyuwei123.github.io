@@ -9,6 +9,7 @@ permalink: /projects/
 - *2021.09* XXXXXXXXX.
 
 
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -41,18 +42,25 @@ permalink: /projects/
 
     .entry-title {
       font-weight: bold;
-      white-space: nowrap; /* Prevents awkward word break */
+      white-space: nowrap; /* prevent awkward word break */
       flex: 1;
     }
 
     .entry-meta {
       display: flex;
       justify-content: space-between;
-      font-style: italic;
       font-size: 0.95em;
       color: #444;
       margin-left: 28px;
       margin-top: 2px;
+    }
+
+    .meta-left {
+      font-style: normal;
+    }
+
+    .meta-right {
+      font-style: italic;
     }
 
     .entry-details {
@@ -64,7 +72,7 @@ permalink: /projects/
       margin-bottom: 4px;
     }
 
-    /* Optional: let title shrink on small screens */
+    /* Optional: let title wrap on small screens */
     @media (max-width: 700px) {
       .entry-title {
         white-space: normal;
@@ -82,36 +90,14 @@ permalink: /projects/
     </div>
   </div>
   <div class="entry-meta">
-    <div>Co-author, Under Review</div>
-    <div>Sept. 2024 – Mar. 2025</div>
+    <div class="meta-left">Sept. 2024 – Mar. 2025</div>
+    <div class="meta-right">Co-author, Under Review</div>
   </div>
   <ul class="entry-details">
     <li>Performed pixel-wise quantification of retinal \( \mathrm{sO}_2 \) using linear spectral unmixing</li>
   </ul>
 </div>
 
-</body>
-</html>
-
-
-<div class="project-entry">
-  <div class="entry-header">
-    <div class="entry-number">2.</div>
-    <div class="entry-title">
-      3D Digital Eye Phantom for Functional Photoacoustic Imaging and \( \mathrm{sO}_2 \) Quantification
-    </div>
-  </div>
-  <div class="entry-meta">
-    <div>Sept. 2024 – Mar. 2025</div>
-    <div>Co-author, Under Review</div>
-  </div>
-  <ul class="entry-details">
-    <li>Performed pixel-wise quantification of retinal \( \mathrm{sO}_2 \) using linear spectral unmixing</li>
-  </ul>
-</div>
-
-</body>
-</html>
 
 
 # 📃 Course Projects
