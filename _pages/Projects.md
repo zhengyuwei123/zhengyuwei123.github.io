@@ -186,8 +186,8 @@ permalink: /projects/
     </div>
   </div>
   <div class="entry-meta">
+    <div>Course-based Research Project under Prof. Cheng Wang, Course: Optical Computing and Optical Neural Networks</div>
     <div>Sept. 2024 – Mar. 2025</div>
-    <div>Independent Research, Course: Optical Computing and Optical Neural Networks, Grade: A+</div>
   </div>
   <ul class="entry-details">
     <li>Reviewed major biological and photonic neuron models (e.g., LIF model, VCSEL-SA lasers), focusing on their suitability for neuromorphic computation</li>
@@ -205,8 +205,8 @@ permalink: /projects/
     </div>
   </div>
   <div class="entry-meta">
+    <div>Primary contributor, Course: Biomedical Photonics and Imaging</div>
     <div>Sept. 2024 – Mar. 2025</div>
-    <div>Co-author, Under Review</div>
   </div>
   <ul class="entry-details">
     <li>Reproduced and analyzed modern speckle imaging techniques using memory-effect-based reconstruction for non-invasive optical imaging</li>
