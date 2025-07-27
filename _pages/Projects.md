@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 ---
 
-# 🔬 Research Projects
+<h2> 🔬 Research Projects  </h2>
 
 <html lang="en">
 <head>
