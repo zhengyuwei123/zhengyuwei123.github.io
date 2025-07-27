@@ -107,3 +107,9 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* === Ensure MathJax font matches page font === */
+mjx-container {
+  font-family: Georgia, serif !important;
+  font-size: 1em !important;
+}
