@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span style='font-family: Arial, sans-serif; font-size: 16px; color: #333;' class='anchor' id='about-me'></span>
 
 Hello! I'm Yves. Welcome to my world!
 
