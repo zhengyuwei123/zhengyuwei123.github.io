@@ -14,13 +14,8 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-p {
-      font-family: 'Microsoft YaHei', sans-serif;
-      font-size: 18px;
-      font-weight: 400;
-      color: #333;
-  }
-<span class='anchor' id='about-me'></span>
+
+<span class='anchor' id='about-me' style="font-family: Arial, sans-serif; font-size: 16px; color: #333;"></span>
 
 Hello! I'm Yves. Welcome to my world!
 
