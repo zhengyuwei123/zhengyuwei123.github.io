@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yunhui Jiang"
-description              : "Strive to become a better man."
-repository               : "yunhui-jiang.github.io"
+title                    : "Yuwei Zheng"
+description              : "Research Assistant, University of Science and Technology of China"
+repository               : "zhengyuwei123.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yunhui Jiang"
-  avatar           : "/images/ProfilePicture.jpg"
-  bio              : "Yunhui Jiang's journey through university"
-  location         : "Shanghai, China"
+  name             : "Yuwei Zheng"
+  avatar           : "/images/Yves.jpg"
+  bio              : "Research Assistant, University of Science and Technology of China"
+  location         : "Suzhou, China"
   employer         :
   pubmed           : 
   #googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "jiang_yunhui99@@163.com"
+  email            : "zhengyw2022@alumni.shanghaitech.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
