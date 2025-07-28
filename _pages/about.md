@@ -15,9 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span style='font-family: Arial, sans-serif; font-size: 16px; color: #333;' class='anchor' id='about-me'></span>
+<span style='font-family: Arial, sans-serif; font-size: 20px; color: #333;' class='anchor' id='about-me'></span>
 
-Hello! I'm Yves. Welcome to my world!
+<font size=1>Hello! I'm Yves. Welcome to my world!</font>
 
 I received my B.S. degree from Harbin University of Science and Technology, Harbin, China. Now, I am a graduate student from the <a href="http://www.hislab.cn/" target="_blank" rel="noopener noreferrer" style="color: blue;">Hybrid Imaging System Laboratory (HISLab)</a> at the School of Information Science and Technology (SIST), ShanghaiTech University, supervised by <a href="https://scholar.google.com/citations?hl=en&user=aDTizY8AAAAJ" target="_blank" rel="noopener noreferrer" style="color: blue;">Prof. Fei Gao</a> and <a href="https://scholar.google.com/citations?user=O5fKAhoAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" style="color: blue;">Prof. Xiran Cai</a>. Currently, HISLab has moved to the Suzhou Institute for Advanced Research at the University of Science and Technology of China (USTC).
 
