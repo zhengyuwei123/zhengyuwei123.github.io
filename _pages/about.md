@@ -19,9 +19,9 @@ redirect_from:
 
 <span style="font-size: 32px;">Hello! I'm Yves. Welcome to my world!</span>
 
-<span style="font-family: Segoe UI;font-size: 18px;">I received my B.S. degree from Harbin University of Science and Technology, Harbin, China. Now, I am a graduate student from the <a href="http://www.hislab.cn/" target="_blank" rel="noopener noreferrer" style="color: blue;">Hybrid Imaging System Laboratory (HISLab)</a> at the School of Information Science and Technology (SIST), ShanghaiTech University, supervised by <a href="https://scholar.google.com/citations?hl=en&user=aDTizY8AAAAJ" target="_blank" rel="noopener noreferrer" style="color: blue;">Prof. Fei Gao</a> and <a href="https://scholar.google.com/citations?user=O5fKAhoAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" style="color: blue;">Prof. Xiran Cai</a>. Currently, HISLab has moved to the Suzhou Institute for Advanced Research at the University of Science and Technology of China (USTC).</span>
+<span style="font-family: Segoe UI;font-size: 18px;">I received my B.S. degree from Harbin University of Science and Technology, Harbin, China. Now, I am a graduate student from the <a href="http://www.hislab.cn/" target="_blank" rel="noopener noreferrer" style="color: blue;">Hybrid Imaging System Laboratory (HISLab)</a> at the School of Information Science and Technology (SIST), ShanghaiTech University, supervised by <a href="https://scholar.google.com/citations?hl=en&user=aDTizY8AAAAJ" target="_blank" rel="noopener noreferrer" style="color: blue;">Prof. Fei Gao</a> and <a href="https://scholar.google.com/citations?user=O5fKAhoAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" style="color: blue;">Prof. Xiran Cai</a>. Currently, HISLab has moved to the Suzhou Institute for Advanced Research at the University of Science and Technology of China (USTC).
 
-I’m always open to insightful conversations and collaboration, feel free to reach out at <div class="email"> <a href="mailto:ywzheng831@gmail.com">ywzheng831@gmail.com</a></div>
+I’m always open to insightful conversations and collaboration, feel free to reach out at  <a href="mailto:ywzheng831@gmail.com">ywzheng831@gmail.com</a></span>
 
 For more details, please refer to my [<a href="/_pages/CVandCourseProjects/JYH_CV.pdf" target="_blank" rel="noopener noreferrer" style="color: inherit;">CV</a>].
 
