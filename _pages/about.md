@@ -49,8 +49,8 @@ redirect_from:
   </div>
 </div> -->
 #  <span style="font-family: Microsoft YaHei;font-size: 24px;">🔥 News</span>
-- <span style="font-family: Microsoft YaHei;font-size: 18px;">*June 28, 2025*: &nbsp;🎉🎉 Attend the Commencement and Degree Conferral Ceremony of ShanghaiTech University and the School of Information Science and Technology.</span>
-- <span style="font-family: Microsoft YaHei;font-size: 18px;">*June 23, 2025*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I). 🎉🎉🎉</span>
+- <span style="font-family: Microsoft YaHei;font-size: 18px;">*June 28, 2025*: &nbsp; Attend the Commencement and Degree Conferral Ceremony of ShanghaiTech University and the School of Information Science and Technology.</span>
+- <span style="font-family: Microsoft YaHei;font-size: 18px;">*June 23, 2025*: &nbsp; One paper was accepted by *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)*. 🎉🎉🎉</span>
 - *May 09, 2025*: &nbsp;🎉🎉 Successfully completed my master's thesis defense. Congratulations!
 - *Dec. 13, 2024*: &nbsp;🎉🎉 I was awarded the <em>Outstanding Student Honor</em> at ShanghaiTech University.
 - *Oct. 29, 2024*: &nbsp;🎉🎉 HISLab has moved to University of Science and Technology of China, Suzhou, Jiangsu. Congratulations!
