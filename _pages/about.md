@@ -26,10 +26,10 @@ I’m always open to insightful conversations and collaboration, feel free to re
 For more details, please refer to my [<a href="/_pages/CVandCourseProjects/JYH_CV.pdf" target="_blank" rel="noopener noreferrer" style="color: blue;">CV</a>].</span>
 
 # 🧐 Research Interests
-- **Low-cost photoacoustic–ultrasound dual-modality imaging systems**  
-- **Flexible photoacoustic patch imaging**  
-- **Biomedical applications**, including structural imaging, functional evaluation, and neuromodulation
-  
+- **<span style="font-family: Segoe UI;font-size: 18px;">Photoacoustic and Ultrasound imaging system design</span>**
+- **<span style="font-family: Segoe UI;font-size: 18px;">Hardware acceleration of photoacoustic image reconstruction algorithms</span>**  
+- **<span style="font-family: Segoe UI;font-size: 18px;">Design and implementation of high-speed Medical data acquisition front-ends</span>**
+- **<span style="font-family: Segoe UI;font-size: 18px;">Signal processing in biomedical imaging systems</span>**
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).这里可以加谷歌引用数量 -->
 
 # 📝 Selected Publications
