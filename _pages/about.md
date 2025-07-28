@@ -53,6 +53,8 @@ redirect_from:
 - <span style="font-family: Microsoft YaHei;font-size: 18px;">*June 23rd, 2025*: &nbsp; One paper was accepted by *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)*. 🎉🎉🎉</span>
 - <span style="font-family: Microsoft YaHei;font-size: 18px;">*May 9th, 2025*: &nbsp; Successfully completed my master's thesis defense.. 🎉🎉🎉</span>
 - <span style="font-family: Microsoft YaHei;font-size: 18px;">*Oct. 29th, 2024*: &nbsp; HISLab has moved to University of Science and Technology of China, Suzhou, Jiangsu. 🎉🎉🎉</span>
+- <span style="font-family: Microsoft YaHei;font-size: 18px;">*June, 2024*: &nbsp; One paper was accepted by *IEEE International Ultrasonics Symposium 2024 (IUS 2024)*. 🎉🎉🎉</span>
+- <span style="font-family: Microsoft YaHei;font-size: 18px;">*May, 2023*: &nbsp; One paper was accepted by *2024 IEEE Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium (2024 UFFC-JS)*. 🎉🎉🎉</span>
 - <span style="font-family: Microsoft YaHei;font-size: 18px;">*Sep. 1st, 2022*: &nbsp; joined HISLab at ShanghaiTech University.</span>
 
 
