@@ -25,7 +25,7 @@ redirect_from:
 
 <span style="font-family: Segoe UI;font-size: 18px;">For more details, please refer to my [<a href="/_pages/CVandCourseProjects/JYH_CV.pdf" target="_blank" rel="noopener noreferrer" style="color: blue;">CV</a>].</span>
 
-# 🧐 Research Interests
+# 🧐 <span style="font-family: Segoe UI;font-size: 18px;">Research Interests</span>
 - **<span style="font-family: Segoe UI;font-size: 18px;">Photoacoustic and Ultrasound imaging system design</span>**
 - **<span style="font-family: Segoe UI;font-size: 18px;">Hardware acceleration of photoacoustic image reconstruction algorithms</span>**  
 - **<span style="font-family: Segoe UI;font-size: 18px;">Design and implementation of high-speed Medical data acquisition front-ends</span>**
