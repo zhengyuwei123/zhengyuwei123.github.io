@@ -56,7 +56,6 @@ redirect_from:
 - *Aug. 09, 2023*: &nbsp;🎉🎉 I joined HISLab at ShanghaiTech University.
 - *Aug. 30, 2022*: &nbsp;🎉🎉 I enrolled at ShanghaiTech University for my graduate studies.
 
-
 <!--
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 -->
