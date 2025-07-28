@@ -50,12 +50,11 @@ redirect_from:
 </div> -->
 #  <span style="font-family: Microsoft YaHei;font-size: 24px;">🔥 News</span>
 - <span style="font-family: Microsoft YaHei;font-size: 18px;">*June 28, 2025*: &nbsp; Attend the Commencement and Degree Conferral Ceremony of ShanghaiTech University and the School of Information Science and Technology.</span>
-- <span style="font-family: Microsoft YaHei;font-size: 18px;">*June 23, 2025*: &nbsp; One paper was accepted by *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)*. 🎉🎉🎉</span>
-- *May 09, 2025*: &nbsp;🎉🎉 Successfully completed my master's thesis defense. Congratulations!
-- *Dec. 13, 2024*: &nbsp;🎉🎉 I was awarded the <em>Outstanding Student Honor</em> at ShanghaiTech University.
-- *Oct. 29, 2024*: &nbsp;🎉🎉 HISLab has moved to University of Science and Technology of China, Suzhou, Jiangsu. Congratulations!
-- *Aug. 09, 2023*: &nbsp;🎉🎉 I joined HISLab at ShanghaiTech University.
-- *Aug. 30, 2022*: &nbsp;🎉🎉 I enrolled at ShanghaiTech University for my graduate studies.
+- <span style="font-family: Microsoft YaHei;font-size: 18px;">*June 23rd, 2025*: &nbsp; One paper was accepted by *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)*. 🎉🎉🎉</span>
+- <span style="font-family: Microsoft YaHei;font-size: 18px;">*May 9th, 2025*: &nbsp; Successfully completed my master's thesis defense.. 🎉🎉🎉</span>
+- <span style="font-family: Microsoft YaHei;font-size: 18px;">*Oct. 29th, 2024*: &nbsp; HISLab has moved to University of Science and Technology of China, Suzhou, Jiangsu. 🎉🎉🎉</span>
+- <span style="font-family: Microsoft YaHei;font-size: 18px;">*Sep. 1st, 2022*: &nbsp; joined HISLab at ShanghaiTech University.</span>
+
 
 <!--
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
