@@ -3,12 +3,12 @@
     "short_name": "",
     "icons": [
        {
-          "src": "/images/LuckyDog.jpg",
+          "src": "/images/scenery.jpg",
           "sizes": "192x192",
           "type": "image/png"
        },
        {
-        "src": "/images/LuckyDog.jpg",
+        "src": "/images/scenery.jpg",
         "sizes": "512x512",
         "type": "image/png"
         }
