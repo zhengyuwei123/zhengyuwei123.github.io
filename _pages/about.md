@@ -48,8 +48,8 @@ redirect_from:
 [<a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-50-14-4582 " target="_blank" rel="noopener noreferrer" style="color: inherit;">PDF</a>] <!--| [Code](https://github.com/your-repo-name)
   </div>
 </div> -->
-#  <span style="font-family: Microsoft YaHei;font-size: 24px;"># 🔥 News</span>
-- *June 28, 2025*: &nbsp;🎉🎉 Attend the Commencement and Degree Conferral Ceremony of ShanghaiTech University and the School of Information Science and Technology.
+#  <span style="font-family: Microsoft YaHei;font-size: 24px;">🔥 News</span>
+- <span style="font-family: Microsoft YaHei;font-size: 18px;">June 28, 2025*: &nbsp;🎉🎉 Attend the Commencement and Degree Conferral Ceremony of ShanghaiTech University and the School of Information Science and Technology.</span>*
 - *June 12, 2025*: &nbsp;🎉🎉 One paper was accepted by Optics Letters (OL). Congratulations!
 - *May 09, 2025*: &nbsp;🎉🎉 Successfully completed my master's thesis defense. Congratulations!
 - *Dec. 13, 2024*: &nbsp;🎉🎉 I was awarded the <em>Outstanding Student Honor</em> at ShanghaiTech University.
