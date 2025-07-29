@@ -55,7 +55,7 @@ redirect_from:
 - <span style="font-family: Roboto;font-size: 18px;">*Oct. 29th, 2024* : &nbsp; HISLab has moved to University of Science and Technology of China, Suzhou, Jiangsu. 🎉</span>
 - <span style="font-family: Roboto;font-size: 18px;">*June, 2024* : &nbsp; One paper was accepted by <span style="font-weight: bold; font-family: Roboto;font-size: 18px;">*2024 IEEE International Ultrasonics Symposium  (2024 IUS)*</span>. 🎉</span>
 - <span style="font-family: Roboto;font-size: 18px;">*May, 2023* : &nbsp; One paper was accepted by <span style="font-weight: bold; font-family: Roboto; font-size: 18px;">*2024 IEEE Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium (2024 UFFC-JS)*</span>. 🎉</span>
-- <span style="font-family: Roboto;font-size: 18px;">*Sep. 1st, 2022* : &nbsp; joined HISLab at ShanghaiTech University.</span>
+- <span style="font-family: Roboto;font-size: 18px;">*Sep. 1st, 2022* : &nbsp; joined  Hybrid Imaging System Laboratory (HISLab) at ShanghaiTech University.</span>
 
 
 <!--
