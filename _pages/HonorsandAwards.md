@@ -18,7 +18,7 @@ permalink: /honors-and-awards/
 - <span style="font-family: Roboto;font-size: 18px;">*2019-2022* : Merit Student, Harbin University of Science and Technology, Harbin, China.</span>
 
 # 🦸‍♂️ Volunteer
-- <span style="font-family: Roboto;font-size: 18px;">*2019, 2021* : Harbin Railway Station Volunteer.</span>
+- <span style="font-family: Roboto;font-size: 18px;">*2019, 2021* : Harbin Railway Station Volunteer, Harbin, China.</span>
 
 
 
