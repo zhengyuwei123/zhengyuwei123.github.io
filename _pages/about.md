@@ -49,13 +49,13 @@ redirect_from:
   </div>
 </div> -->
 #  <span style="font-family: Microsoft YaHei;font-size: 24px;">🔥 News</span>
-- <span style="font-family: Roboto;font-size: 18px;">*June 28, 2025*: &nbsp; Attend the Commencement and Degree Conferral Ceremony of ShanghaiTech University and the School of Information Science and Technology.</span>
-- <span style="font-family: Roboto;font-size: 18px;">*June 23rd, 2025*: &nbsp; One paper was accepted by <span style="font-weight: bold; font-family: Microsoft YaHei;font-size: 18px;">*IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)*</span>. 🎉</span>
-- <span style="font-family: Roboto;font-size: 18px;">*May 9th, 2025*: &nbsp; Successfully completed my master's thesis defense. 🎉</span>
-- <span style="font-family: Roboto;font-size: 18px;">*Oct. 29th, 2024*: &nbsp; HISLab has moved to University of Science and Technology of China, Suzhou, Jiangsu. 🎉</span>
-- <span style="font-family: Roboto;font-size: 18px;">*June, 2024*: &nbsp; One paper was accepted by <span style="font-weight: bold; font-family: Microsoft YaHei;font-size: 18px;">*IEEE International Ultrasonics Symposium 2024 (IUS 2024)*</span>. 🎉</span>
-- <span style="font-family: Roboto;font-size: 18px;">*May, 2023*: &nbsp; One paper was accepted by <span style="font-weight: bold; font-family: Roboto;font-size: 18px;">*2024 IEEE Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium (2024 UFFC-JS)*</span>. 🎉</span>
-- <span style="font-family: Roboto;font-size: 18px;">*Sep. 1st, 2022*: &nbsp; joined HISLab at ShanghaiTech University.</span>
+- <span style="font-family: Roboto;font-size: 18px;">*June 28, 2025* : &nbsp; Attend the Commencement and Degree Conferral Ceremony of ShanghaiTech University and the School of Information Science and Technology.</span>
+- <span style="font-family: Roboto;font-size: 18px;">*June 23rd, 2025* : &nbsp; One paper was accepted by <span style="font-weight: bold; font-family: Microsoft YaHei;font-size: 18px;">*IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)*</span>. 🎉</span>
+- <span style="font-family: Roboto;font-size: 18px;">*May 9th, 2025* : &nbsp; Successfully completed my master's thesis defense. 🎉</span>
+- <span style="font-family: Roboto;font-size: 18px;">*Oct. 29th, 2024* : &nbsp; HISLab has moved to University of Science and Technology of China, Suzhou, Jiangsu. 🎉</span>
+- <span style="font-family: Roboto;font-size: 18px;">*June, 2024* : &nbsp; One paper was accepted by <span style="font-weight: bold; font-family: Microsoft YaHei;font-size: 18px;">*IEEE International Ultrasonics Symposium 2024 (IUS 2024)*</span>. 🎉</span>
+- <span style="font-family: Roboto;font-size: 18px;">*May, 2023* : &nbsp; One paper was accepted by <span style="font-weight: bold; font-family: Roboto;font-size: 18px;">*2024 IEEE Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium (2024 UFFC-JS)*</span>. 🎉</span>
+- <span style="font-family: Roboto;font-size: 18px;">*Sep. 1st, 2022* : &nbsp; joined HISLab at ShanghaiTech University.</span>
 
 
 <!--
