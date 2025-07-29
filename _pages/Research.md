@@ -14,17 +14,17 @@ window.MathJax = {
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
 
 
-<span style="font-family: Roboto;font-size: 32px;"># 🔬 Research Projects  #</span>
+# <span style="font-family: Roboto;font-size: 32px;">🔬 Research Projects </span>
 
-<span style="font-family: Roboto;font-size: 19px;">1. Programmable Laser-Induced Ultrasound Design and Simulation via k-Wave
-     <div style="display: flex; justify-content: space-between; font-style: italic;">
+<span style="font-family: Roboto;font-size: 18px;">1. Programmable Laser-Induced Ultrasound Design and Simulation via k-Wave</span>
+     <div style="display: flex; justify-content: space-between; font-style: italic; font-size: 18px;">
         <div>Principal Investigator, Ongoing</div>
         <div>July 2025 – Present</div>
      </div>
-      - Designed spatially patterned optical absorbers capable of generating laser-induced ultrasound fields with tunable directionality and amplitude under pulsed laser excitation
-      - Applied phased-array principles by encoding spatial phase delays through absorber geometry, enabling programmable beam steering and dynamic acoustic focusing
-      - Built a k-Wave simulation framework to model ultrasound propagation and evaluate focusing performance in water and heterogeneous tissue-mimicking media
-      - Analyzing resolution and energy distribution across different pattern configurations to inform the practical design of flexible acoustic focusing patches</span>
+      <span style="font-family: Roboto;font-size: 18px;">- Designed spatially patterned optical absorbers capable of generating laser-induced ultrasound fields with tunable directionality and amplitude under pulsed laser excitation</span>
+      <span style="font-family: Roboto;font-size: 18px;">- Applied phased-array principles by encoding spatial phase delays through absorber geometry, enabling programmable beam steering and dynamic acoustic focusing</span>
+      <span style="font-family: Roboto;font-size: 18px;">- Built a k-Wave simulation framework to model ultrasound propagation and evaluate focusing performance in water and heterogeneous tissue-mimicking media</span>
+      <span style="font-family: Roboto;font-size: 18px;">- Analyzing resolution and energy distribution across different pattern configurations to inform the practical design of flexible acoustic focusing patches</span>
 
 2. Dual-modality Photoacoustic-Ultrasound Imaging Using Laser-Induced Ultrasound from Black Tape
      <div style="display: flex; justify-content: space-between; font-style: italic;">
