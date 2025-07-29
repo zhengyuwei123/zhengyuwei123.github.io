@@ -23,7 +23,7 @@ redirect_from:
 
 <span style="font-family: Roboto;font-size: 18px;">I am always open to insightful conversations and collaboration, feel free to reach out at  <a href="mailto:ywzheng831@gmail.com">ywzheng831@gmail.com</a></span>
 
-<span style="font-family: Roboto;font-size: 18px;">For more details, please refer to my [<a href="/_pages/CVandCourseProjects/JYH_CV.pdf" target="_blank" rel="noopener noreferrer" style="color: blue;">CV</a>].</span>
+<span style="font-family: Roboto;font-size: 18px;">For more details, please refer to my [<a href="/_pages/CVandCourseProjects/CV_Yves.pdf" target="_blank" rel="noopener noreferrer" style="color: blue;">CV</a>].</span>
 
 #  <span style="font-family: Roboto;font-size: 24px;">🧐Research Interests</span>
 - **<span style="font-family: Roboto;font-size: 18px;">Photoacoustic and Ultrasound imaging system design</span>**
