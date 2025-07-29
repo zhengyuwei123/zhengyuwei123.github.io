@@ -16,7 +16,7 @@ window.MathJax = {
 
 # <span style="font-family: Roboto; font-size: 32px;">🔬 Research Projects </span>
 
-<span style="ont-weight: bold; font-family: Roboto;font-size: 18px;">1. Programmable Laser-Induced Ultrasound Design and Simulation via k-Wave</span>
+<span style="font-weight: bold; font-family: Roboto;font-size: 18px;">1. Programmable Laser-Induced Ultrasound Design and Simulation via k-Wave</span>
      <div style="display: flex; justify-content: space-between; font-style: italic; font-size: 18px;">
         <div>Principal Investigator, Ongoing</div>
         <div>July 2025 – Present</div>
