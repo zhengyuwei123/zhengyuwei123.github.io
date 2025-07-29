@@ -14,7 +14,7 @@ permalink: /honors-and-awards/
 # 🏆 Honors
 - <span style="font-family: Roboto;font-size: 18px;">*Dec. 2024* : Completed the Deqing Mount Mogan Bamboo Sea Half Marathon, Zhejiang, China.</span>
 - <span style="font-family: Roboto;font-size: 18px;">*June 2022* : Outstanding Graduate and Excellent thesis, Harbin University of Science and Technology, Harbin, China.</span>
-- <span style="font-family: Roboto;font-size: 18px;">*Oct. 2021* : Invited to visit the qualifications of alumni enterprises in Beijing (Only 8 people in the whole school), Harbin University of Science and Technology, Harbin, China.</span>
+- <span style="font-family: Roboto;font-size: 18px;">*Oct. 2021* : Invited to visit the qualifications of alumni enterprises in Beijing (Only 8 people in the whole university), Harbin University of Science and Technology, Harbin, China.</span>
 - <span style="font-family: Roboto;font-size: 18px;">*2019-2022* : Merit Student, Harbin University of Science and Technology, Harbin, China.</span>
 
 # 🦸‍♂️ Volunteer
