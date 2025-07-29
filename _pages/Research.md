@@ -14,10 +14,10 @@ window.MathJax = {
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
 
 
-# <span style="font-family: Roboto; font-size: 32px;">🔬 Research Projects </span>
+# <span style="font-family: Roboto; font-size: 24px;">🔬 Research Projects </span>
 
 <span style="font-weight: bold; font-family: Roboto;font-size: 18px;">1. Programmable Laser-Induced Ultrasound Design and Simulation via k-Wave</span>
-     <div style="display: flex; justify-content: space-between; font-style: italic; font-size: 18px;">
+     <div style="display: flex; justify-content: space-between; font-style: italic;">
         <div>Principal Investigator, Ongoing</div>
         <div>July 2025 – Present</div>
      </div>
