@@ -27,7 +27,7 @@ author:
   location         : "Suzhou, China"
   employer         :
   pubmed           : 
-  #googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  #googlescholar    : https://scholar.google.com/citations?user=YkkQeWYAAAAJ&hl=zh-CN&oi=sra
   email            : "zhengyw2022@alumni.shanghaitech.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -38,7 +38,7 @@ author:
   facebook         :
   foursquare       :
   github           : zhengyuwei123
-  google_plus      :
+  google_plus      : 
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
