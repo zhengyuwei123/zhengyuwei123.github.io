@@ -8,7 +8,7 @@ permalink: /honors-and-awards/
 - <span style="font-family: Roboto;font-size: 18px;">*2022-2024* : National Graduate Academic Scholarship.</span>
 - <span style="font-family: Roboto;font-size: 18px;">*2018-2022* : Five first-class scholarships and two second-class scholarships.</span>
 - <span style="font-family: Roboto;font-size: 18px;">*2020* : National Scholarship.</span>
-- <span style="font-family: Roboto;font-size: 18px;">*2019,2021* : National Encouragement Scholarship.</span>
+- <span style="font-family: Roboto;font-size: 18px;">*2019, 2021* : National Encouragement Scholarship.</span>
 
 
 # 🏆 Honors

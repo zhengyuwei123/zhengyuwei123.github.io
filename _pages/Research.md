@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research Experience
-permalink: /Research-Experience/
+title: Research
+permalink: /Research/
 ---
 
 <script>
