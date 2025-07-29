@@ -6,9 +6,6 @@ main:
  # - title: "Research Interests"
  #   url: "/#-research-interests"
 
-  - title: "News"
-    url: "/news/"
-
   - title: "Publications"
     url: "/publications/"
 
@@ -21,14 +18,8 @@ main:
   - title: "Moments"
     url: "/Moments/"
 
-  - title: "TA Work"
-    url: "/ta-work/"
-
  # - title: "Invited Talks"
  #  url: "/#-invited-talks"
-
-  - title: "Internships and Work"
-    url: "/internships-and-work/"
 
  # - title: "Homie"
  #   url: "/homie/"
