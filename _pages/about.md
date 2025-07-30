@@ -33,7 +33,7 @@ redirect_from:
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).这里可以加谷歌引用数量 -->
 
 #  <span style="font-family: Microsoft YaHei;font-size: 24px;">🔥 News</span>
-- <span style="font-family: Roboto;font-size: 18px;">*June 28, 2025* : &nbsp; Attend the Commencement and Degree Conferral Ceremony of ShanghaiTech University and the School of Information Science and Technology. 🎉</span>
+- <span style="font-family: Roboto;font-size: 18px;">*June 28th, 2025* : &nbsp; Attend the Commencement and Degree Conferral Ceremony of ShanghaiTech University and the School of Information Science and Technology. 🎉</span>
 - <span style="font-family: Roboto;font-size: 18px;">*June 23rd, 2025* : &nbsp; One paper was accepted by <span style="font-weight: bold; font-family: Roboto;font-size: 18px;">*IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)*</span>. 🎉</span>
 - <span style="font-family: Roboto;font-size: 18px;">*May 9th, 2025* : &nbsp; Successfully completed my master's thesis defense. 🎉</span>
 - <span style="font-family: Roboto;font-size: 18px;">*Oct. 29th, 2024* : &nbsp; HISLab has moved to University of Science and Technology of China, Suzhou, Jiangsu. 🎉</span>
