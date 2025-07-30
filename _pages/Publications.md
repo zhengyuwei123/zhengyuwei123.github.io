@@ -16,9 +16,9 @@ permalink: /publications/
   </div>
   
   <div class='paper-box-text' markdown="1">
+  - **Journal: Optics Letters** 
   - **Title:** Disposable Opto-Acoustic Window Enabled Plug-and-Play Photoacoustic-Ultrasound Dual-modal Imaging
-  - **Authors:** <strong><u>Yunhui Jiang</u></strong>, Fan Zhang, Yuwei Zheng, Ruixi Sun, Xiran Cai, Fei Gao
-  - **Summary:** This work presents a plug-and-play photoacoustic–ultrasound dual-modal imaging system (PnP-PAUS) with a disposable opto-acoustic window (OAW), enabling simultaneous PA and US imaging using a single laser pulse and demonstrating high resolution, stability, and signal consistency through phantom and in vivo experiments.
+  - **Authors:** Yunhui Jiang, Fan Zhang, <strong><u>Yuwei Zheng</u></strong>, Ruixi Sun, Xiran Cai, Fei Gao*
 [<a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-50-14-4582 " target="_blank" rel="noopener noreferrer" style="color: blue;">Link</a>] <!--| [Code](https://github.com/your-repo-name)-->
   </div>
 </div> 
