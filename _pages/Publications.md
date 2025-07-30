@@ -34,8 +34,24 @@ permalink: /publications/
   <div class='paper-box-text' markdown="1">
   - <div style='font-size:16px; font-weight: bold;'><em>IEEE Transactions on Circuits and Systems I: Regular Papers</em></div> 
   - <div style='font-size:16px; font-weight: bold;'>Hardware Architecture Design for Iterative Reconstruction Algorithms Towards
-Palm-size Photoacoustic Tomography [<a href="hhttps://ieeexplore.ieee.org/document/11075611" target="_blank" rel="noopener noreferrer" style="color: blue;">Link</a>]</div> 
+Palm-size Photoacoustic Tomography [<a href="https://ieeexplore.ieee.org/document/11075611" target="_blank" rel="noopener noreferrer" style="color: blue;">Link</a>]</div> 
   - <div style='font-size:16px'><strong><u>Yuwei Zheng</u></strong>, Zijian Gao, Yuting Shen, Jiadong Zhang, Ruixi Sun, Daohuai Jiang, Fengyu Liu, Xiran Cai, Feng Gao*, Yuan Gao*, Fei Gao*</div> 
+<!--| [Code](https://github.com/your-repo-name)-->
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image' >
+    <div>
+      <div class="badge" style="font-size: 1em;">2024 UFFC-JS</div>
+      <img src='/images/UFFC-JS.png.png' alt="sym" width="95%">
+    </div>
+  </div>
+  
+  <div class='paper-box-text' markdown="1">
+  - <div style='font-size:16px; font-weight: bold;'><em> 2024 IEEE Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium</em></div> 
+  - <div style='font-size:16px; font-weight: bold;'>SmartDAQ: Intelligent Data Acquisition System Enables Low-latency Photoacoustic Imaging System [<a href="https://ieeexplore.ieee.org/abstract/document/10793979" target="_blank" rel="noopener noreferrer" style="color: blue;">Link</a>]</div> 
+  - <div style='font-size:16px'><strong><u>Yuwei Zheng</u></strong>, Ruixi Sun, Yuting Shen, Daohuai Jiang, Fengyu Liu, Feng Gao*, and Fei Gao*</div> 
 <!--| [Code](https://github.com/your-repo-name)-->
   </div>
 </div> 
