@@ -7,7 +7,7 @@ permalink: /Moments/
 # <span style="font-family: Roboto; font-size: 24px;">📝 Moments</span>
 
 <div style="text-align: center; font-size: 24px; font-weight: bold; margin-bottom: 30px;">
-  HISLab's trip to northern Xinjiang
+  HISLab's trip to northern Xinjiang, China
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
