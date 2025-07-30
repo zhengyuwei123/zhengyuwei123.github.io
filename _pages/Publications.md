@@ -16,8 +16,8 @@ permalink: /publications/
   </div>
   
   <div class='paper-box-text' markdown="1">
-  - <div style='font-size:18px'>**Journal: <em>Optics Letters</em>**</div> 
-  - <div style='font-size:18px'>**Title:** Disposable Opto-Acoustic Window Enabled Plug-and-Play Photoacoustic-Ultrasound Dual-modal Imaging [<a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-50-14-4582 " target="_blank" rel="noopener noreferrer" style="color: blue;">Link</a>]</div> 
+  - <div style='font-size:18px; font-weight: bold;'>**Journal: <em>Optics Letters</em>**</div> 
+  - <div style='font-size:18px; font-weight: bold;'>**Title:** Disposable Opto-Acoustic Window Enabled Plug-and-Play Photoacoustic-Ultrasound Dual-modal Imaging [<a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-50-14-4582 " target="_blank" rel="noopener noreferrer" style="color: blue;">Link</a>]</div> 
   - <div style='font-size:18px'>**Authors:** Yunhui Jiang, Fan Zhang, <strong><u>Yuwei Zheng</u></strong>, Ruixi Sun, Xiran Cai, Fei Gao*</div> 
 <!--| [Code](https://github.com/your-repo-name)-->
   </div>
