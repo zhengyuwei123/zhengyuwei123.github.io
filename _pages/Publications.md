@@ -6,11 +6,11 @@ permalink: /publications/
 
 <!-- <u>下划线；<em>斜体  -->
 
-📝 Selected Publications
+<span style="font-family: Roboto; font-size: 24px;">📝 Selected Publications</span>
 <div class='paper-box'>
   <div class='paper-box-image' >
     <div>
-      <div class="badge" style="font-size: 1.2em;">OL 2025</div>
+      <div class="badge" style="font-size: 1em;">OL 2025</div>
       <img src='/images/OAW_OL565354.jpg' alt="sym" width="95%">
     </div>
   </div>
