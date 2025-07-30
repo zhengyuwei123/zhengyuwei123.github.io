@@ -54,6 +54,23 @@ Palm-size Photoacoustic Tomography [<a href="https://ieeexplore.ieee.org/documen
   - <div style='font-size:16px'><strong><u>Yuwei Zheng</u></strong>, Ruixi Sun, Yuting Shen, Daohuai Jiang, Fengyu Liu, Feng Gao*, and Fei Gao*</div> 
 <!--| [Code](https://github.com/your-repo-name)-->
   </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image' >
+    <div>
+      <div class="badge" style="font-size: 1em;">2024 IUS</div>
+      <img src='/images/IUS.png' alt="sym" width="95%">
+    </div>
+  </div>
+  
+  <div class='paper-box-text' markdown="1">
+  - <div style='font-size:16px; font-weight: bold;'><em> 2023 IEEE International Ultrasonics Symposium</em></div> 
+  - <div style='font-size:16px; font-weight: bold;'>Hardware Acceleration of s-Wave based PA Image
+Reconstruction [<a href="https://ieeexplore.ieee.org/document/10306958" target="_blank" rel="noopener noreferrer" style="color: blue;">Link</a>]</div> 
+  - <div style='font-size:16px'><strong><u>Yuwei Zheng</u></strong>, Zijian Gao, Yuting Shen, Jiadong Zhang, Daohuai Jiang, Fengyu Liu, Feng Gao*, and Fei Gao*</div> 
+<!--| [Code](https://github.com/your-repo-name)-->
+  </div>
 </div> 
 
 # <span style="font-family: Roboto; font-size: 24px;">📝 Publications</span>
