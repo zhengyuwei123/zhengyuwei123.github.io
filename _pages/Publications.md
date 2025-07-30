@@ -44,7 +44,7 @@ Palm-size Photoacoustic Tomography [<a href="https://ieeexplore.ieee.org/documen
   <div class='paper-box-image' >
     <div>
       <div class="badge" style="font-size: 1em;">2024 UFFC-JS</div>
-      <img src='/images/UFFC-JS.png.png' alt="sym" width="95%">
+      <img src='/images/UFFC-JS.png' alt="sym" width="95%">
     </div>
   </div>
   
