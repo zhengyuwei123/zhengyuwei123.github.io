@@ -32,22 +32,6 @@ redirect_from:
 - **<span style="font-family: Roboto;font-size: 18px;">Signal processing in biomedical imaging systems</span>**
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).这里可以加谷歌引用数量 -->
 
-<!--📝 Selected Publications
-<div class='paper-box'>
-  <div class='paper-box-image' >
-    <div>
-      <div class="badge" style="font-size: 1.2em;">OL 2025</div>
-      <img src='images/OAW_OL565354.jpg' alt="sym" width="95%">
-    </div>
-  </div>
-  
-  <div class='paper-box-text' markdown="1">
-  - **Title:** Disposable Opto-Acoustic Window Enabled Plug-and-Play Photoacoustic-Ultrasound Dual-modal Imaging
-  - **Authors:** <strong><u>Yunhui Jiang</u></strong>, Fan Zhang, Yuwei Zheng, Ruixi Sun, Xiran Cai, Fei Gao
-  - **Summary:** This work presents a plug-and-play photoacoustic–ultrasound dual-modal imaging system (PnP-PAUS) with a disposable opto-acoustic window (OAW), enabling simultaneous PA and US imaging using a single laser pulse and demonstrating high resolution, stability, and signal consistency through phantom and in vivo experiments.
-[<a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-50-14-4582 " target="_blank" rel="noopener noreferrer" style="color: inherit;">PDF</a>] <!--| [Code](https://github.com/your-repo-name)
-  </div>
-</div> -->
 #  <span style="font-family: Microsoft YaHei;font-size: 24px;">🔥 News</span>
 - <span style="font-family: Roboto;font-size: 18px;">*June 28, 2025* : &nbsp; Attend the Commencement and Degree Conferral Ceremony of ShanghaiTech University and the School of Information Science and Technology. 🎉</span>
 - <span style="font-family: Roboto;font-size: 18px;">*June 23rd, 2025* : &nbsp; One paper was accepted by <span style="font-weight: bold; font-family: Roboto;font-size: 18px;">*IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)*</span>. 🎉</span>
