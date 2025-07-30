@@ -69,8 +69,7 @@ Palm-size Photoacoustic Tomography [<a href="https://ieeexplore.ieee.org/documen
   - <div style='font-size:16px; font-weight: bold;'>Hardware Acceleration of s-Wave based PA Image
 Reconstruction [<a href="https://ieeexplore.ieee.org/document/10306958" target="_blank" rel="noopener noreferrer" style="color: blue;">Link</a>]</div> 
   - <div style='font-size:16px'><strong><u>Yuwei Zheng</u></strong>, Zijian Gao, Yuting Shen, Jiadong Zhang, Daohuai Jiang, Fengyu Liu, Feng Gao*, and Fei Gao*</div> 
-<!--| [Code](https://github.com/your-repo-name)-->
-  </div>
+</div>
 </div> 
 
 # <span style="font-family: Roboto; font-size: 24px;">📝 Publications</span>
