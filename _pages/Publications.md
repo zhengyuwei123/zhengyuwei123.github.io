@@ -26,7 +26,7 @@ permalink: /publications/
 <div class='paper-box'>
   <div class='paper-box-image' >
     <div>
-      <div class="badge" style="font-size: 1em;">IEEE TCAS-I</div>
+      <div class="badge" style="font-size: 1em;">IEEE TCAS-I 2025</div>
       <img src='/images/TCAS-I.png' alt="sym" width="95%">
     </div>
   </div>
