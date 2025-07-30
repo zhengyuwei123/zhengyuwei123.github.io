@@ -17,9 +17,9 @@ permalink: /publications/
   
   <div class='paper-box-text' markdown="1">
   - **Journal: Optics Letters** 
-  - **Title:** Disposable Opto-Acoustic Window Enabled Plug-and-Play Photoacoustic-Ultrasound Dual-modal Imaging
+  - **Title:** Disposable Opto-Acoustic Window Enabled Plug-and-Play Photoacoustic-Ultrasound Dual-modal Imaging [<a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-50-14-4582 " target="_blank" rel="noopener noreferrer" style="color: blue;">Link</a>] 
   - **Authors:** Yunhui Jiang, Fan Zhang, <strong><u>Yuwei Zheng</u></strong>, Ruixi Sun, Xiran Cai, Fei Gao*
-[<a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-50-14-4582 " target="_blank" rel="noopener noreferrer" style="color: blue;">Link</a>] <!--| [Code](https://github.com/your-repo-name)-->
+<!--| [Code](https://github.com/your-repo-name)-->
   </div>
 </div> 
 
