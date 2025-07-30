@@ -27,6 +27,8 @@ permalink: /Moments/
 </div>
 
 <div style="text-align: center; font-size: 24px; font-weight: bold; margin-bottom: 30px;">
+
+
   HISLab's trip to Finland
 </div>
 
