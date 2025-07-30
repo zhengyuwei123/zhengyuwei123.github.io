@@ -10,7 +10,7 @@ permalink: /Moments/
   HISLab's trip to northern Xinjiang, China
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 30px;">
   <div style="flex: 0 0 calc(50% - 20px);">
     <img src="/images/Trip/p1.jpg" alt="图片1" style="width: 100%; border-radius: 10px;">
   </div>
